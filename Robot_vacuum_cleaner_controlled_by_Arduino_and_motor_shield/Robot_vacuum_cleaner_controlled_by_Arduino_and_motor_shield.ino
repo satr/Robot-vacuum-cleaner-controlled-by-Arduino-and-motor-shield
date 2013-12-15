@@ -17,7 +17,7 @@ const int pinLeftBumper = 8;
 
 //uncomment next 2 lines if Motor Shield has breaks
 //const int pinRightMotorBreak = PUT_BREAK_PIN_HERE; //this can be marked on motor shield as "BREAKE A"
-//const int pinLeftMotorBreak = PUT_BREAK_PIN_HERE; //this can be marked on motor shield as "BREAKE A"
+//const int pinLeftMotorBreak = PUT_BREAK_PIN_HERE; //this can be marked on motor shield as "BREAKE B"
 
 //fields
 const int turnRightTimeout = 100;
